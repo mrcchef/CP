@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"f:\\CP\\youtube\\practice.cpp","tests":[{"id":1612594344407,"input":"1\n7 10\n1 3 5 8 10 12 14\n2 5 6 7 8 11 13 14 16 17","output":"101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\youtube\\practice.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\Coding\\CP\\Contest\\code_forces\\div2\\719\\A.cpp","tests":[{"id":1620399740894,"input":"3\n5 3\n13 2\n7 11\n","output":"YES\n10 50 60\nYES\n169 39 208\nYES\n28 154 182"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\Contest\\code_forces\\div2\\719\\A.cpp","group":"local","local":true}

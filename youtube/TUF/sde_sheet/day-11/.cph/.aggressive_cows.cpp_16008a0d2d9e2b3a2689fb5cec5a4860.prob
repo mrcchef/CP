@@ -1,0 +1,1 @@
+{"name":"Local: aggressive_cows","url":"e:\\Coding\\CP\\TUF\\sde_sheet\\day-11\\aggressive_cows.cpp","tests":[{"id":1625047818624,"input":"1\n5 3\n1\n2\n8\n4\n9","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\TUF\\sde_sheet\\day-11\\aggressive_cows.cpp","group":"local","local":true}

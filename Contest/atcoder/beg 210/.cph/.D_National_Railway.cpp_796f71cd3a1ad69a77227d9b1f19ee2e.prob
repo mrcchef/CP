@@ -1,0 +1,1 @@
+{"name":"Local: D_National_Railway","url":"e:\\Coding\\CP\\Contest\\atcoder\\beg 210\\D_National_Railway.cpp","tests":[{"id":1626599283283,"input":"3 4 2\n1 7 7 9\n9 6 3 7\n7 8 6 4","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\Contest\\atcoder\\beg 210\\D_National_Railway.cpp","group":"local","local":true}

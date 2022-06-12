@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"e:\\Coding\\CP\\Contest\\others\\quora\\q1.cpp","tests":[{"id":1629907365292,"input":"8 3\n1 2 1 3 2 1 1 2","output":""},{"id":1629908908331,"input":"9 3\n3 2 2 3 2 3 1 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\Contest\\others\\quora\\q1.cpp","group":"local","local":true}

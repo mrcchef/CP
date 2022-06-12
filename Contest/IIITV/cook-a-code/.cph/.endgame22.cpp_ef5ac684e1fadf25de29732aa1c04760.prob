@@ -1,0 +1,1 @@
+{"name":"Local: endgame22","url":"e:\\Coding\\CP\\Contest\\IIITV\\cook-a-code\\endgame22.cpp","tests":[{"id":1647365070776,"input":"3 2\n3\n+ 3 1\n- 4 0\n+ 2 3","output":"3\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\Contest\\IIITV\\cook-a-code\\endgame22.cpp","group":"local","local":true}

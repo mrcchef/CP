@@ -1,0 +1,1 @@
+{"name":"Local: try","url":"f:\\Contest\\MANIT_Codathon\\try.cpp","tests":[{"id":1611046958575,"input":"4\n6\n2 4 7 3 6 1\n4\n0 0 0 0\n4\n1 1 1 1\n4\n7 3 6 1","output":""},{"id":1611047094785,"input":"1\n4\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Contest\\MANIT_Codathon\\try.cpp","group":"local","local":true}

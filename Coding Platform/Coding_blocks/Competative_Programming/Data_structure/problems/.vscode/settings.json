@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ratio": "cpp",
+        "*.tcc": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp"
+    }
+}

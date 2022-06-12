@@ -1,0 +1,1 @@
+{"name":"Local: Sed_Max2","url":"f:\\Contest\\code_chef\\Lunch\\feb_21\\Sed_Max2.cpp","tests":[{"id":1614444972558,"input":"2\n2\n1 2\n3\n5 1 3","output":"1\n2"},{"id":1614444996568,"input":"1\n6\n1 3 4 2 3 9","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Contest\\code_chef\\Lunch\\feb_21\\Sed_Max2.cpp","group":"local","local":true}

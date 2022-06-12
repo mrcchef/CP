@@ -1,0 +1,1 @@
+{"name":"Local: find_msb_in_O1","url":"e:\\Coding\\CP\\TUF\\sde_sheet\\day-12\\find_msb_in_O1.cpp","tests":[{"id":1625073766897,"input":"4\n20\n40\n60\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\TUF\\sde_sheet\\day-12\\find_msb_in_O1.cpp","group":"local","local":true}

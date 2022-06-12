@@ -1,0 +1,1 @@
+{"name":"Local: B_Box_Fitting","url":"f:\\CP\\Contest\\code_forces\\div2\\711\\B_Box_Fitting.cpp","tests":[{"id":1618500176117,"input":"2\n5 16\n1 2 8 4 8\n6 10\n2 8 8 2 2 8\n","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Contest\\code_forces\\div2\\711\\B_Box_Fitting.cpp","group":"local","local":true}
